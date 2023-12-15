@@ -2,7 +2,7 @@
 
 The instructions here are for new members to get familar with group coding style and some mandatory knowledge.
 
-1. General guideline:
+1. GGGeneral guideline:
   - You should always work on your own forked repo, and create a new branch there (always git pull when you start creating a new branch so as to keep it updated with the remote). Once your work is finished, create a PR to merge `your forked repo's branch in process` into `group main repo that you fork from`.
   
 2. Learn to use Github:
